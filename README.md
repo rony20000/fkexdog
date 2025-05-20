@@ -22,7 +22,7 @@
 ## Getting Started
 
 ```bash
-git clone <YOUR-REPO-URL>
+git clone https://github.com/rony20000/fkexdog.git
 cd flexdog-wishlist
 npm install
 
