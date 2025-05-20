@@ -1,0 +1,15 @@
+[
+  {
+    "id": "537bd560-2007-41f2-a128-f3479849f6fe",
+    "userId": "user1",
+    "name": "test",
+    "isPublic": true,
+    "publicId": "4fc43fd4-6879-49e6-875c-974b78a81732"
+  },
+  {
+    "id": "42057ae8-b97d-43d4-99bb-caaf2d94dd26",
+    "userId": "user1",
+    "name": "test 2",
+    "isPublic": false
+  }
+]

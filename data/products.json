@@ -1,0 +1,14 @@
+[
+  {
+    "id": "p1",
+    "name": "Air Jordan 1 Retro High",
+    "price": 180,
+    "inStock": true
+  },
+  {
+    "id": "p2",
+    "name": "Yeezy Boost 350 V2",
+    "price": 220,
+    "inStock": true
+  }
+]
